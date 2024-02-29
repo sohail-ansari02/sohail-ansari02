@@ -3,7 +3,7 @@
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 
-- 🌱 I’m currently learning **NestJs,FireBase and Node.js**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Angular,React,SASS/SCSS,Three.js and Processing.js**
 
